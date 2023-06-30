@@ -1,6 +1,6 @@
 from pycounts_ga6.pycounts_ga6 import count_words
 from pycounts_ga6.plotting import plot_words
-from pycounts.datasets import get_flatland
+from pycounts_ga6.datasets import get_flatland
 import matplotlib
 from collections import Counter
 import pytest
