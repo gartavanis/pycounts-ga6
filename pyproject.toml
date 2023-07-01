@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_ga6"
-version = "0.2.0"
+version = "0.0.0"
 description = "Calculate word counts in a text file!"
 authors = ["GeorgeA"]
 license = "MIT"
